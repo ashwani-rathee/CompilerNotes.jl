@@ -2,7 +2,7 @@
 Add here global page variables to use throughout your website.
 -->
 +++
-author = "Septimia Zenobia"
+author = "Ashwani Rathee"
 mintoclevel = 2
 
 # Add here files or directories that should be ignored by Franklin, otherwise
@@ -13,10 +13,10 @@ ignore = ["node_modules/"]
 
 # RSS (the website_{title, descr, url} must be defined to get RSS)
 generate_rss = true
-website_title = "Franklin Template"
-website_descr = "Example website using Franklin"
-website_url   = "https://tlienart.github.io/FranklinTemplates.jl/"
-prepath = "CompilerNotes"
+prepath = "CompilerNotes.jl"
+website_title = "Julia Compiler Notes"
+website_descr = "Compiler Related Notes for Julia"
+website_url   = "https://ashwani-rathee.github.io/CompilerNotes.jl/"
 +++
 
 <!--
